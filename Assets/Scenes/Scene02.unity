@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -112,75 +112,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &144402250
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 100000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_Name
-      value: macpc
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 5.703
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.808
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.79
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.90317136
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.42928022
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -129.156
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.6616253
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6616253
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.6616253
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 3c5f9f475a37de244abddd8db43ace83, type: 3}
 --- !u!1001 &1471728106
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -194,7 +125,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 89cb3f6bc3f94b346854fb49fe33e1f2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.62
+      value: 5.122
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 89cb3f6bc3f94b346854fb49fe33e1f2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -202,7 +133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 89cb3f6bc3f94b346854fb49fe33e1f2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.963
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 89cb3f6bc3f94b346854fb49fe33e1f2, type: 3}
       propertyPath: m_LocalRotation.x
